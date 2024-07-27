@@ -1,3 +1,3 @@
 credentials
 fromPhoneNumber: aString
-	^self at: #fromPhoneNumber put: aString
+	self at: #fromPhoneNumber put: aString
